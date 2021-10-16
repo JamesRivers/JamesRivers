@@ -3,6 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/james_rivers?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjamesrivers&screen_name=james_rivers)
 
 [![James Rivers GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesRivers)](https://github.com/JamesRivers/github-readme-stats)
+![James Rivers GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesRivers&show_icons=true&theme=Dark)
 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
