@@ -48,43 +48,54 @@ When I'm not working you can find me spending time with the family, 1 wife, 3 ch
 
 ### What I always play with
 <p> 
-  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="shell Script">
-  <img src="https://img.shields.io/badge/-markdown-grey" alt="markdown">
-  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="shell Script">
-  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="shell Script">
-  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="shell Script">
-  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="shell Script">
-  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="shell Script">
-  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="shell Script">
-  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="shell Script">
-
+  <img src="https://img.shields.io/badge/-shellscript-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-markdown-grey" alt="#">
+  <img src="https://img.shields.io/badge/-javascript-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-arista-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-cisco-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-HAProxy-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-consul-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-postgres-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-patroni-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-rabbitmq-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-docker-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-aws-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-awscli-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-linode-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-premierepro-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-aftereffects-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-gimp-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-obsidian-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-vi-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-vim-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-vscode-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-git-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-github-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-bitbucket-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-jira-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-confluence-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-wikijs-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-proxmox-lightgrey" alt="#">
+  <img src="https://img.shields.io/badge/-vmware-lightgrey" alt="#">
 </p>
-
 <br>
-
 ### What I sometimes play with
 <p>
-  <img src="https://camo.githubusercontent.com/b24523991dccb1991a2b8faa8dd97f48a0944157eacb7316b32834c2e070cf09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f2d2532333030414444382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465" alt="Go Lang">
-
-  <img src="  https://camo.githubusercontent.com/922a5d8888929fc17acaaf995fe42f50788f30a5b58f45b03c6bafc9e4b5791f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b756265726e657465732d2532333332366365352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d7768697465" alt="#">
-
-  <img src="    https://camo.githubusercontent.com/79c115f5f7c3c6cd19b8ec09c8e139b061e891a05046cde5d7b9dcd0532d3485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465727261666f726d2d2532333538333543432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465" alt="#">
-
- <img src="      https://camo.githubusercontent.com/e906f948a673a8764a34a737745e13211638e09cf10b1e0fbc6512718cfd320b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76616772616e742d2532333135363346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76616772616e74266c6f676f436f6c6f723d7768697465" alt="#">
-
-  
-
-  
+  <img src="https://img.shields.io/badge/-kubernetes-grey" alt="#">
+  <img src="https://img.shields.io/badge/-rancher-grey" alt="#">
+  <img src="https://img.shields.io/badge/-cloudflare-grey" alt="#">
+  <img src="https://img.shields.io/badge/-digitalocean-grey" alt="#">
+  <img src="https://img.shields.io/badge/-googlecloud-grey" alt="#">
 </p>
 <br>
 
 
 ### What I want to play with more ...
 <p>
-<img src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="React">
-
-  <img src="  https://camo.githubusercontent.com/e922b45bfb79029cf4436e255b0d17b00b651e13b24f1751a9f87b14055fb4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465" alt="React">
-
+  <img src="https://img.shields.io/badge/-react-brown" alt="#">
+  <img src="https://img.shields.io/badge/-latex-brown" alt="#">
+  <img src="https://img.shields.io/badge/-pandoc-brown" alt="#">
+  <img src="https://img.shields.io/badge/-GoLang-brown" alt="#">
   
 </p>
 
@@ -98,9 +109,9 @@ When I'm not working you can find me spending time with the family, 1 wife, 3 ch
 
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/JamesRivers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=JamesRivers.JamesRivers) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/JamesRivers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JamesRivers)
 
-
+---
 
 - 🔭 I am looking to launch an educational channel. 
 - 🌱 I’m currently learning everything 🤣
