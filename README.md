@@ -118,4 +118,17 @@ When I'm not working you can find me spending time with the family, 1 wife, 3 ch
 - 🥅 2021 Goals: Contribute more to Open Source projects complete AWS training, Docker, K8S and other technologies. 
 - ⚡ Fun fact: I love to cook! 
 
- 
+---
+## Private Repos
+- deepthought https://github.com/JamesRivers/deepthought - all my materials for writes up and training
+- imaginedockers https://github.com/JamesRivers/imaginedockers - all docker compose files for review and testing
+
+## Public Repos
+- dotfiles https://github.com/JamesRivers/dotfiles
+- tinkerscripts https://github.com/JamesRivers/tinker_scripts
+- club21 https://github.com/JamesRivers/club21 - public space for sharing
+- vagrant https://github.com/JamesRivers/vagrant
+- jamesrivers.github.io https://github.com/JamesRivers/jamesrivers.github.io
+- IEEE1588-PTP https://github.com/JamesRivers/IEEE1588-PTP
+- marp core https://github.com/JamesRivers/marp-core
+- lynx https://github.com/JamesRivers/Lynx
