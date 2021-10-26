@@ -1,5 +1,3 @@
-### Hi there, I'm James Rivers 👋
-
 <h1 align="center">🤠 Howdy! I'm James Rivers</h1>
 
 <p align="center">
@@ -11,7 +9,7 @@ When I'm not working you can find me spending time with the family, 1 wife, 3 ch
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riversjames//)](https://www.linkedin.com/in/riversjames/)
+  [![Linkedin Badge](https://img.shields.io/badge/-JamesRivers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riversjames//)](https://www.linkedin.com/in/riversjames/)
   [![Twitter Badge](https://img.shields.io/twitter/follow/james_rivers?style=social)](https://twitter.com/james_rivers)
 
 </div>
