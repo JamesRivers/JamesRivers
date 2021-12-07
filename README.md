@@ -117,6 +117,7 @@ When I'm not working you can find me spending time with the family, 1 wife, 3 ch
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects complete AWS training, Docker, K8S and other technologies. 
 - ⚡ Fun fact: I love to cook! 
+- 🎥 Love to create with Adobe AE, AI and PP. - https://www.youtube.com/user/1980Rivers/videos
 
 ---
 ## Private Repos
